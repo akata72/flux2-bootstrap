@@ -3,5 +3,4 @@ kind: Kustomization
 resources:
   - sources
   - nginx
-  - cluster-baseline-settings
-  - a0008
+  - baseline
