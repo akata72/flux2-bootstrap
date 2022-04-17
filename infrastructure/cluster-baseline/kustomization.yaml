@@ -3,3 +3,5 @@ kind: Kustomization
 resources:
   - namespace.yaml
   - aad-pod-identity.yaml
+  - rbac.yaml
+  - kured.yaml
